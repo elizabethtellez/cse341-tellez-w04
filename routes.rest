@@ -1,0 +1,12 @@
+// LOCALHOST 
+GET http://localhost:8080/contacts
+###
+GET http://localhost:8080/contacts/63c77c7cb08b5118b599efae
+###
+GET http://localhost:8080/contacts/63c77ca7b08b5118b59a56b5
+###
+GET http://localhost:8080/contacts/63c77cceb08b5118b59ab65b
+
+
+// PRODUCTION Deploy 
+GET 
